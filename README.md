@@ -1,4 +1,4 @@
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=djphil&repo=djphil.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djphil)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ### Hi there 👋
