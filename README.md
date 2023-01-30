@@ -1,11 +1,11 @@
 <a href="https://github.com/djphil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djphil&theme=light&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djphil&theme=light&show_icons=true">
 </a>
 <a href="https://github.com/djphil">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djphil&theme=light&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djphil&theme=light&layout=compact">
 </a>
 
-![djphil's Github Trophy](https://github-profile-trophy.vercel.app/?username=djphil&theme=flat&margin-w=5&margin-h=5&no-bg=false&no-frame=false)
+[![djphil's Github Trophy](https://github-profile-trophy.vercel.app/?username=djphil&theme=flat&margin-w=5&margin-h=5&no-bg=false&no-frame=false)](https://github.com/djphil)
 
 <!--
 [![djphil's Github Stats](https://github-readme-stats.vercel.app/api?username=djphil&theme=light&show_icons=true)](https://github.com/djphil) 
