@@ -1,10 +1,13 @@
+[![djphil's GitHub stats](https://github-readme-stats.vercel.app/api?username=djphil&show_icons=true)](https://github.com/djphil/github-readme-stats)
+
+<!--
 <a href="https://github.com/djphil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=djphil&theme=light&show_icons=true">
 </a>
 <a href="https://github.com/djphil">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djphil&theme=light&layout=compact">
 </a>
-
+-->
 <!--
 [![djphil's Github Trophy](https://github-profile-trophy.vercel.app/?username=djphil&theme=flat&margin-w=5&margin-h=5&no-bg=false&no-frame=false)](https://github.com/djphil)
 -->
