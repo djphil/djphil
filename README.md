@@ -1,10 +1,10 @@
-![djphil's Stats](https://github-readme-stats.vercel.app/api?username=djphil&theme=default&show_icons=true&hide_border=false&count_private=true)
+[![djphil's Stats](https://github-readme-stats.vercel.app/api?username=djphil&theme=default&show_icons=true&hide_border=false&count_private=true)](https://github.com/djphil/)
 
+<!--
 ![djphil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=djphil&theme=default&hide_border=false)
 
 ![djphil's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djphil&theme=default&show_icons=true&hide_border=false&layout=compact)
 
-<!--
 [![djphil's GitHub stats](https://github-readme-stats.vercel.app/api?username=djphil&show_icons=true)](https://github.com/djphil/github-readme-stats)
 -->
 <!--
